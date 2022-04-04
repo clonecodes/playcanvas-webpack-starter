@@ -13,7 +13,7 @@ PlayCanvas projects are usually developed with proprietary Editor, but when used
 
 After playing a bit with PlayCanvas in codepen, I decided to build simple minimal setup that will support local server, hot reloading, ES6, etc with playcanvas engine, playcanvas-tween and ammo.js
 
-#Relevant links
+# Relevant links
 https://playcanvas.com/  
 https://github.com/playcanvas/engine  
 https://playcanvas.github.io/#/misc/hello-world  
