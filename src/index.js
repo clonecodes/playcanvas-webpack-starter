@@ -1,4 +1,4 @@
-import shapes from './examples/shapes';
+import physics from './examples/physics';
 import './styles/main.scss';
 
-shapes();
+physics();
