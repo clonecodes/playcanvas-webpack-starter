@@ -14,12 +14,12 @@ PlayCanvas projects are usually developed with proprietary Editor, but when used
 After playing a bit with PlayCanvas in codepen, I decided to build simple minimal setup that will support local server, hot reloading, ES6, etc with playcanvas engine, playcanvas-tween and ammo.js
 
 #Relevant links
-https://playcanvas.com/
-https://github.com/playcanvas/engine
-https://playcanvas.github.io/#/misc/hello-world
-https://developer.playcanvas.com/en/user-manual/designer/
-https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas/engine
-https://codepen.io/clonedev/pen/rNpyPQJ
+https://playcanvas.com/  
+https://github.com/playcanvas/engine  
+https://playcanvas.github.io/#/misc/hello-world  
+https://developer.playcanvas.com/en/user-manual/designer/  
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas/engine  
+https://codepen.io/clonedev/pen/rNpyPQJ    
 
 # Quirks
 If you check dependencies in package.json you may notice that playcanvas has proper npm versioning, while playcanvas-tween and ammo.js are a bit odd. 
