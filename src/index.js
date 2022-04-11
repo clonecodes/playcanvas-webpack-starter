@@ -1,4 +1,4 @@
-import physics from './examples/physics';
+import forces from './examples/forces';
 import './styles/main.scss';
 
-physics();
+forces();
